@@ -75,7 +75,7 @@
 
 							<!-- LAYER NR. 1 -->
 							<!-- LAYER NR. 1 -->
-							<div class="tp-caption large_bold_white skewfromrightshort customout" data-x="15" data-y="200" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="1200" data-easing="Back.easeOut" data-endspeed="500" data-endeasing="Power4.easeIn" data-captionhidden="on" style="z-index: 4"> Automobile <br>Industry
+							<div class="tp-caption large_bold_white skewfromrightshort customout" data-x="15" data-y="200" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="1200" data-easing="Back.easeOut" data-endspeed="500" data-endeasing="Power4.easeIn" data-captionhidden="on" style="z-index: 4"> Automobile <br>Industrysdgfd
 							</div>
 
 							<!-- LAYER NR. 2 -->
